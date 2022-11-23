@@ -27,6 +27,8 @@ pms16011172@gmail.com
 
 ### 💻 Project
 
+[그룹웨어 오픈소스](https://github.com/Minse5k/O-RE)
+
 [MBTI별 유튜버 분석](https://github.com/Minse5k/YUTI)
 
 [3D 방꾸미기 기록형SNS](https://github.com/InfoMansion/InfoMansion)
