@@ -13,6 +13,8 @@ pms16011172@gmail.com
 
 ---
 
+### [포트폴리오](https://rapid-bank-b30.notion.site/1500d7047b8f4cb4bc0557022a4b3c33)
+
 ### 🛠 Tech Stack 🛠
 
 ---
